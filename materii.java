@@ -37,7 +37,7 @@ public class materii {
          
          }
       else{
-         System.out.println("good subuh");
+         System.out.println("good isuk2");
        
          //array
      }
