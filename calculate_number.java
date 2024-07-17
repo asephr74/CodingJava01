@@ -36,7 +36,16 @@ public class calculate_number {
     System.out.println(first);
     System.out.println(second);
     System.out.println(third);
-    
+
+        
+        float berat= 70.5f;
+        System.out.println("berat badan =" + berat);
+        
+        
+        char gender='L';
+        
+        System.out.println("Jenis Kelamin =" + gender);
+        
     }
     
 }
