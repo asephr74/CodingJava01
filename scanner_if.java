@@ -39,7 +39,7 @@ public class scanner_if {
             System.out.println("ok");
         }
          
-        
+        //percobaan
     }
         
         
