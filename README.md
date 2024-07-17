@@ -1,2 +1,2 @@
 https://java-programming.mooc.fi/
-javaprog-1/part1/4.variabel
+https://java-programming.mooc.fi/part-2/2-repeating
