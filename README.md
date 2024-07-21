@@ -10,7 +10,7 @@ https://java-programming.mooc.fi/part-2/4-methods ==>Tutorial Java
 
 https://exercism.org/users/sign_in  ==> Course Java Programming
 
-https://www.programiz.com/j    ==> Course Java Programming
+https://programiz.com/java-programming   ==> Course Java Programming
 
 https://www.marscode.com/      ==> Java AI Coding/arikahendri@gmail.com/adrianrika1974
 
