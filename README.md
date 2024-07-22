@@ -6,7 +6,7 @@ https://openai.com/chatgpt/ ==>arikahendri@gmail.com/Adrianrika1974
 
 https://app.clickup.com/ ==>arikahendri@gmail.com/Adrianrika1974
 
-https://java-programming.mooc.fi/part-2/4-methods ==>Tutorial Java
+https://java-programming.mooc.fi/part-3/2-lists ==>Tutorial Java
 
 https://exercism.org/users/sign_in  ==> Course Java Programming
 
