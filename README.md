@@ -14,7 +14,14 @@ https://programiz.com/java-programming   ==> Course Java Programming
 
 https://www.marscode.com/      ==> Java AI Coding/arikahendri@gmail.com/adrianrika1974
 
-
+Rangkuman (OOP)
+class
+objek
+encapsulation==>get,set
+inheritance==>extends
+polymorphiim==>@override
+abstraction==>abstract class
+interface==>implements
 
 
 
