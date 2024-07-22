@@ -4,7 +4,7 @@ https://zzzcode.ai/java/code-explain ==> AI (Java)
 
 https://app.clickup.com/ ==>arikahendri@gmail.com/Adrianrika1974
 
-https://openai.com/chatgpt/ ==>arikahendr@gmail.com/Adrianrika1974
+https://openai.com/chatgpt/ ==>arikahendri@gmail.com/Adrianrika1974
 
 https://java-programming.mooc.fi/part-2/4-methods ==>Tutorial Java
 
