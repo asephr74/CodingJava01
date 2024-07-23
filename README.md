@@ -14,7 +14,7 @@ https://programiz.com/java-programming   ==> Course Java Programming
 
 https://www.marscode.com/      ==> Java AI Coding/arikahendri@gmail.com/adrianrika1974
 
-
+https://www.codekop.com/read/tutorial-java-cara-membuat-crud-java-dan-mysql-netbeans.html
 
 
 
