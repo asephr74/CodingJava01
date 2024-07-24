@@ -16,7 +16,7 @@ https://www.marscode.com/      ==> Java AI Coding/arikahendri@gmail.com/adrianri
 
 https://www.codekop.com/read/tutorial-java-cara-membuat-crud-java-dan-mysql-netbeans.html
 
-
+- https://github.com/jsquared21/Intro-to-Java-Programming  ==>referensi
 
 
 
