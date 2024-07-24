@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main{
    public static void main(String[] args) {
         // Create an ArrayList of Strings
-        ArrayList<String> wordList = new ArrayList<>();
+        ArrayList<String> wordList = new ArrayList<>();// berisi data string
         
         // Add some elements to the ArrayList
         wordList.add("apple");
