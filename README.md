@@ -19,5 +19,6 @@ https://www.codekop.com/read/tutorial-java-cara-membuat-crud-java-dan-mysql-netb
 - https://github.com/jsquared21/Intro-to-Java-Programming  ==>referensi
 
 - public static int sum(int first, int second) {
+  
   return first + second;}// mengembalikan nilai integer 
 
