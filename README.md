@@ -20,5 +20,7 @@ https://www.codekop.com/read/tutorial-java-cara-membuat-crud-java-dan-mysql-netb
 
 - public static int sum(int first, int second) {
   
-  return first + second;}// mengembalikan nilai integer 
+  return first + second;}// mengembalikan nilai integer
+
+ - void: Metode ini tidak mengembalikan nilai.
 
