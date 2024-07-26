@@ -4,9 +4,9 @@ public class loginpasssavearray2dimensi {
     public static void main(String[] args) {
         // Array untuk menyimpan username dan password
         String[][] users = {
-            {"user1", "password1"},
-            {"user2", "password2"},
-            {"user3", "password3"}
+            {"user1", "password1"},// [0,0] [0,1]
+            {"user2", "password2"},// [1,0] [1,1]
+            {"user3", "password3"} // [2,0] [2,1]
         };
 
         Scanner scanner = new Scanner(System.in);
