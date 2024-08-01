@@ -9,6 +9,7 @@ import java.util.Scanner;
  *
  * @author hendr
  */
+// summing
 public class Enam_Repeating_functionality {
     public static void main(String[]args){
     Scanner scanner=new Scanner(System.in);  
@@ -23,7 +24,7 @@ public class Enam_Repeating_functionality {
         
         System.out.println("input number=");
         sum=sum+Integer.valueOf(scanner.nextLine());
-        numbersread=numbersread+1;
+        numbersread=numbersread+1;// penambahan
         
         System.out.println("The sum of njmber is = "+sum);
         
@@ -40,7 +41,7 @@ public class Enam_Repeating_functionality {
         break;
     }
 
-    number = number + 1;
+    number = number + 1; //penambahan
 }
 
 System.out.println("Ready!");
