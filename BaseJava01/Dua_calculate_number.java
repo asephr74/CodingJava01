@@ -13,18 +13,19 @@ public class Dua_calculate_number {
     public static void main(String[]args){
     int dividend = 3;
     int divisor = 2;
+    //result,hasil,whenDividendIsFloat di inisialisasi langsung
+        
+    double result = (double) dividend / divisor*1;
+    System.out.println(result); //result=1.5, tidak dbulatkan
     
-    double result = (double) dividend / divisor*1.0;
-    System.out.println(result); //result=1.5
-    
-    double hasil = dividend / divisor*1.0;
-    System.out.println(hasil); //result=1
+    double hasil = dividend / divisor*1;
+    System.out.println(hasil); //result=1.0, dibulatkan
     
     double whenDividendIsFloat = 3 / 2;
-    System.out.println(whenDividendIsFloat); // prints 1
+    System.out.println(whenDividendIsFloat); // prints 1.0, dibulatkan
 
     double whenDivisorIsFloat = 3 / 2.0;
-    System.out.println(whenDivisorIsFloat); // prints 1.5
+    System.out.println(whenDivisorIsFloat); // prints 1.5, tidak dbulatkan
     
     //calculation
     int first = (1 + 1);
