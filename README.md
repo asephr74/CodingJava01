@@ -24,4 +24,6 @@ https://www.codekop.com/read/tutorial-java-cara-membuat-crud-java-dan-mysql-netb
 
  - void: Metode ini tidak mengembalikan nilai.
 
+ - https://www.javatpoint.com/
+
  
