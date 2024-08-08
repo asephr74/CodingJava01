@@ -6,11 +6,11 @@ https://openai.com/chatgpt/ ==>arikahendri@gmail.com/Adrianrika1974
 
 https://app.clickup.com/ ==>arikahendri@gmail.com/Adrianrika1974
 
-- https://java-programming.mooc.fi/part-4/1-introduction-to-object-oriented-programming==>Tutorial Java
+- https://java-programming.mooc.fi/part-4/1-introduction-to-object-oriented-programming==>Tutorial Java #
 
-https://exercism.org/users/sign_in  ==> Course Java Programming
+- https://exercism.org/users/sign_in  ==> Course Java Programming
 
-https://programiz.com/java-programming   ==> Course Java Programming
+- https://programiz.com/java-programming   ==> Course Java Programming #
 
 https://www.marscode.com/      ==> Java AI Coding/arikahendri@gmail.com/adrianrika1974
 
@@ -18,17 +18,11 @@ https://www.codekop.com/read/tutorial-java-cara-membuat-crud-java-dan-mysql-netb
 
 - https://github.com/jsquared21/Intro-to-Java-Programming  ==>referensi
 
-- public static int sum(int first, int second) {
-  
-  return first + second;}// mengembalikan nilai integer
+- https://www.javatpoint.com/ ==> tutorial Java Swing
 
- - void: Metode ini tidak mengembalikan nilai.
+- https://introcs.cs.princeton.edu/java/home/   ==> Tutorial
 
- - https://www.javatpoint.com/ ==> tutorial Java Swing
-
- - https://introcs.cs.princeton.edu/java/home/   ==> Tutorial
-
- - https://www.cubits.ai/collections/ ==>user:arikahendri@gmail.com, pass:adrian1974, princeton university
+- https://www.cubits.ai/collections/ ==>user:arikahendri@gmail.com, pass:adrian1974, princeton university
 
    
 
