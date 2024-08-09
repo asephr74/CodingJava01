@@ -1,4 +1,4 @@
-// memanngil method didalam class
+// memanggil method didalam class
 public class Lam{
 
     // stores the value for light
