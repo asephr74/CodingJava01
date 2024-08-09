@@ -1,3 +1,5 @@
+//memanggil method "Person" didalam Class lain
+
 public class Main {
 
     public static void main(String[] args) {
