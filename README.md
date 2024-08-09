@@ -24,6 +24,6 @@ https://www.codekop.com/read/tutorial-java-cara-membuat-crud-java-dan-mysql-netb
 
 - https://www.cubits.ai/collections/ ==>user:arikahendri@gmail.com, pass:adrian1974, princeton university
 
-   
+- https://www.edureka.co/ ==>user:asep h, arikahendri@gmail.com, pass:Adrianrika1974
 
  
