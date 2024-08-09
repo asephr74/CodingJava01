@@ -1,4 +1,4 @@
-
+// memanggil method didalam class "Lamp"
   
   public class base {
     public static void main(String[] args) {
