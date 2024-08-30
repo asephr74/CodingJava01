@@ -9,7 +9,7 @@ public class Main {
         sString = sString + ",";
 
         for (int iI = 0; iI < iLen; iI++) { //25x looping
-            char sKoma = sString.charAt(iI);
+            char sKoma = sString.charAt(iI);//ambil 1 character
             if (sKoma == ',') {
                 iFound++; //nambah 2x
                 if (iFound == iCounter) {
