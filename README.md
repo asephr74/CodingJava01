@@ -1,5 +1,3 @@
-https://www.online-java.com/   ==> Java Interaktif
-
 https://zzzcode.ai/java/code-explain ==> AI (Java)
 
 https://openai.com/chatgpt/ ==>arikahendri@gmail.com/Adrianrika1974
